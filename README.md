@@ -1,2 +1,2 @@
-# daichem.com
+# daichem
 Daichem 
